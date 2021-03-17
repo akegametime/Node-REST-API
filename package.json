@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "devStart": "nodemon server.js"
+        "devStart": "node server.js"
     },
     "author": "",
     "license": "ISC",
@@ -16,14 +16,4 @@
         "dotenv": "^8.0.0",
         "nodemon": "^1.19.0"
     }
-
-
-
-
-
-
-
-
-
-    
 }
